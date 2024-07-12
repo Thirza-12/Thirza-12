@@ -1,5 +1,5 @@
 ## Hi there 👋
-<div style="display:flex">
+<div style="display:flex gap:5px">
     <a href="https://www.linkedin.com/in/thirza12/">
         <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="22px">
     </a>
