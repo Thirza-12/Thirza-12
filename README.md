@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thirza</h1>
 <h3 align="center">I am a third-year Computer Science B.Tech student at Chitkara University.</h3>
 
-- 🌱 I’m currently learning **react, DSA**
+- 🌱 I’m currently learning **React, DSA**
 
 - 👨‍💻 All of my projects are available at [https://thirza-12.github.io/Portfolio/](https://thirza-12.github.io/Portfolio/)
 
