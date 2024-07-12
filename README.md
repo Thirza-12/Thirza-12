@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thirza</h1>
+<h1 align="center">Hi, I'm Thirza</h1>
 <h3 align="center">I am a third-year Computer Science B.Tech student at Chitkara University.</h3>
 
 - 🌱 I’m currently learning **react, DSA**
