@@ -2,6 +2,9 @@
 <a href="https://www.linkedin.com/in/thirza12/">
     <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="22px">
 </a>
+<a href="https://leetcode.com/u/Thirza/">
+    <img src="https://cdn.iconscout.com/icon/free/png-512/free-leetcode-3521542-2944960.png?f=webp&w=256" width="22px">
+</a>
 <!--
 **Thirza-12/Thirza-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
