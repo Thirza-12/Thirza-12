@@ -1,6 +1,6 @@
 ## Hi there 👋
 <a href="https://www.linkedin.com/in/thirza12/">
-    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png">
+    <img src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" width="22px">
 </a>
 <!--
 **Thirza-12/Thirza-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
