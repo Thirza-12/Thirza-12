@@ -11,15 +11,7 @@ I'm a **third-year Computer Science B.Tech student** at **Chitkara University**.
 ## 📊 GitHub Stats
 ![Thirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirza-12&show_icons=true&theme=tokyonight)
 
-- **Total Stars Earned:** 8 ⭐
-- **Total Commits (2025):** 210 📝
-- **Total PRs:** 2 🔥
-- **Total Issues:** 0 🚀
-- **Contributed to (last year):** 2 🏆
-- **Total Contributions (Sep 24, 2023 - Present):** 481 🎯
-
 ## 📫 Connect with Me
 - **LinkedIn:** [Thirza Behal](https://www.linkedin.com/in/thirza12/)
 
 Let's connect and build something amazing! 🚀
-
