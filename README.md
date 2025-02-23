@@ -9,7 +9,7 @@ I'm a **third-year Computer Science B.Tech student** at **Chitkara University**.
 - **Data Structures & Algorithms**
 
 ## 📊 GitHub Stats
-![Thirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirza12&show_icons=true&theme=tokyonight)
+![Thirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thirza-12&show_icons=true&theme=tokyonight)
 
 - **Total Stars Earned:** 8 ⭐
 - **Total Commits (2025):** 210 📝
